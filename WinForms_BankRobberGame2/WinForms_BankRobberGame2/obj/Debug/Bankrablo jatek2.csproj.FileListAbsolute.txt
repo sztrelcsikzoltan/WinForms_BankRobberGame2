@@ -1,0 +1,61 @@
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\settings.csv
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Bankrablo_jatek.exe.config
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Bankrablo_jatek.exe
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Bankrablo_jatek.pdb
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Google.Protobuf.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Zstandard.Net.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\BouncyCastle.Crypto.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Ubiety.Dns.Core.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Renci.SshNet.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Memory.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Buffers.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\K4os.Compression.LZ4.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\K4os.Hash.xxHash.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Numerics.Vectors.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\MySql.Data.xml
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.AssemblyReference.cache
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.exe.config
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.Properties.Resources.resources
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.GenerateResource.cache
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.CoreCompileInputs.cache
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.CopyComplete
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.exe
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.pdb
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.StartForm.resources
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.DatabaseForm.resources
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.SettingsForm.resources
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.GameForm.resources
+D:\_C#\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.HelpForm.resources
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\settings.csv
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Bankrablo_jatek.exe.config
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Bankrablo_jatek.exe
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Bankrablo_jatek.pdb
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Google.Protobuf.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Zstandard.Net.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\Renci.SshNet.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Memory.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Buffers.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\bin\Debug\MySql.Data.xml
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.AssemblyReference.cache
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.exe.config
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.DatabaseForm.resources
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.SettingsForm.resources
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.GameForm.resources
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.StartForm.resources
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.Properties.Resources.resources
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.HelpForm.resources
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.GenerateResource.cache
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.CoreCompileInputs.cache
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.CopyComplete
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.exe
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo_jatek.pdb
+C:\Users\Zolly\source\repos\Bankrablo_jatek\Bankrablo_jatek2\obj\Debug\Bankrablo jatek2.csproj.SuggestedBindingRedirects.cache

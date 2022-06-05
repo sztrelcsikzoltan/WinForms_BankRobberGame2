@@ -1,0 +1,31 @@
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\settings.csv
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\Bankrablo_jatek.exe.config
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\Bankrablo_jatek.exe
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\Bankrablo_jatek.pdb
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\MySql.Data.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\Google.Protobuf.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\Zstandard.Net.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\Renci.SshNet.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\System.Memory.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\System.Buffers.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\bin\Debug\MySql.Data.xml
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.exe.config
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.AdatbazisOldal.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.BeallitasokOldal.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.JatekOldal.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.KezdoOldal.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.Properties.Resources.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.SugoOldal.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo jatek1.csproj.GenerateResource.cache
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo jatek1.csproj.CoreCompileInputs.cache
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo jatek1.csproj.CopyComplete
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.exe
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo_jatek.pdb
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo jatek1\obj\Debug\Bankrablo jatek1.csproj.AssemblyReference.cache

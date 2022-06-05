@@ -1,0 +1,10 @@
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\obj\Debug\Bankrablo.Form1.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\obj\Debug\Bankrablo.csproj.GenerateResource.cache
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\obj\Debug\Bankrablo.csproj.CoreCompileInputs.cache
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\bin\Debug\Bankrablo.exe.config
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\bin\Debug\Bankrablo.exe
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\bin\Debug\Bankrablo.pdb
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\obj\Debug\Bankrablo.Properties.Resources.resources
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\obj\Debug\Bankrablo.exe
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\obj\Debug\Bankrablo.pdb
+C:\Users\Zolly\source\repos\WinFormsApp\Bankrablo\obj\Debug\Bankrablo.csproj.AssemblyReference.cache

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms_BankRobberGame2", "WinForms_BankRobberGame2\WinForms_BankRobberGame2.csproj", "{DCD0B40E-B8E7-4F9E-8CC3-C712CF173BC4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WinForms_BankRobberGame2_setup", "WinForms_BankRobberGame2_setup\WinForms_BankRobberGame2_setup.vdproj", "{253E41B7-7191-4980-90A7-63F7ABA2DCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD0B40E-B8E7-4F9E-8CC3-C712CF173BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD0B40E-B8E7-4F9E-8CC3-C712CF173BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD0B40E-B8E7-4F9E-8CC3-C712CF173BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD0B40E-B8E7-4F9E-8CC3-C712CF173BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253E41B7-7191-4980-90A7-63F7ABA2DCCE}.Debug|Any CPU.ActiveCfg = Debug
+		{253E41B7-7191-4980-90A7-63F7ABA2DCCE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {990E4993-78E0-46EB-B305-4A63EB86E61B}
+	EndGlobalSection
+EndGlobal
