@@ -49,11 +49,11 @@ namespace WinForms_BankRobberGame2
             this.label_title.AutoSize = true;
             this.label_title.BackColor = System.Drawing.Color.Transparent;
             this.label_title.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label_title.Location = new System.Drawing.Point(206, 20);
+            this.label_title.Location = new System.Drawing.Point(183, 20);
             this.label_title.Name = "label_title";
-            this.label_title.Size = new System.Drawing.Size(315, 37);
+            this.label_title.Size = new System.Drawing.Size(344, 37);
             this.label_title.TabIndex = 0;
-            this.label_title.Text = "Bank Robber Game";
+            this.label_title.Text = "Bank Robber Game 2";
             this.label_title.Visible = false;
             // 
             // button_startGame
