@@ -817,7 +817,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "GameForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Bank Robber Game";
+            this.Text = "Bank Robber Game 2";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.gamePage_KeyDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.gamePage_KeyUp);
             ((System.ComponentModel.ISupportInitialize)(this.player)).EndInit();
